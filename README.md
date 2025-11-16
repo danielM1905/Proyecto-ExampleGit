@@ -5,8 +5,6 @@
 
 ### **Matricula:** 2203065803
 
-Aquí tienes el texto **reescrito**, más claro y fluido, pero conservando toda la información que describe:
-
 ---
 
 ### **Descripción:**
@@ -76,8 +74,8 @@ Si se muestra información sobre la versión instalada, Java se configuró corre
 
 ### **Comandos utilizados:**
 
-* **mkdir ProyectoEjemploGit:** crea un directorio llamado ProyectoEjemploGit.
-* **cd ProyectoEjemploGit:** accede al directorio recién creado.
+* **mkdir ProyectoExamplegithub:** crea un directorio llamado ProyectoExamplegithub.
+* **cd ProyectoExamplegithub:** accede al directorio recién creado.
 * **git init:** inicializa un repositorio Git creando la carpeta `.git`.
 * **echo 'public class HolaMundo {...}' > HolaMundo.java:** genera el archivo HolaMundo.java con un fragmento de código Java (sobrescribe si ya existía).
 * **git add HolaMundo.java:** agrega el archivo al área de preparación.

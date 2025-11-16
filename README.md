@@ -1,12 +1,12 @@
-# **Fundamentos de Ingeniería de Software**
+
 ## **Tarea 01**
 
-### **Nombre del alumno:** daniel monroy marcelo
+ daniel monroy marcelo
 
 ### **Matricula:** 2203065803
 
 ---
-
+# **Fundamentos de Ingeniería de Software**
 ### **Descripción:**
 
 Este proyecto consiste en una práctica introductoria al uso de Git y GitHub. El objetivo es crear un programa sencillo en Java que imprima el mensaje **"Hola Git"**, mientras se aprende a manejar las funciones básicas de control de versiones. Durante la actividad se realiza la creación de un repositorio local, la ejecución de commits, el uso de un archivo `.gitignore` para excluir archivos no deseados, y finalmente, la publicación del proyecto en un repositorio remoto en GitHub.
